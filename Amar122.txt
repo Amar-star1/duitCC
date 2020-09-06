@@ -1,5 +1,6 @@
-# Masukan link : 
+\033[1;36mMasukan link : 
 
-https://ifile.cc/rymL0BRw
+\033[1;32mhttps://ifile.cc/rymL0BRw
+\033[1;32mhttps://ifile. Cc/0VTAKb5Py
 
-# Masukkan melalui chrome
+\033[1;36mMasukkan melalui chrome
