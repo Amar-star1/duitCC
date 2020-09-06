@@ -1,6 +1,6 @@
-\033[1;36mMasukan link : 
+Masukan link : 
 
-\033[1;32mhttps://ifile.cc/rymL0BRw
-\033[1;32mhttps://ifile. Cc/0VTAKb5Py
+https://ifile.cc/rymL0BRw
+https://ifile. Cc/0VTAKb5Py
 
-\033[1;36mMasukkan melalui chrome
+Masukkan melalui chrome
